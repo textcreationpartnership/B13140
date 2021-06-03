@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation concerning certain kilnes for the sweet and speedy drying of mault and hops at a small charge.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13140</idno><idno type="EEBO-CITATION">99892698</idno>
+  <idno type="VID">188364</idno>
+  <idno type="EEBO-PROQUEST">2240923153</idno>
+  
+            <idno type="STC">STC 9102</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.b.3[13]</idno>
+            <idno type="STC">ESTC S123874</idno>
+            <idno type="PROQUEST">ocm99892698</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892698e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13140)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188364)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:2[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation concerning certain kilnes for the sweet and speedy drying of mault and hops at a small charge.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Majestie: and by the assignes of John Bill,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>1637 [i.e. 1638]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dates are given according to Lady Day dating.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Dated at end of text: ... White-Hall, the eighth day of February, in the thirteenth yeer of Our reign.</note>
+                  <note>Arms 24; Steele notation: Earle of 2) wri- to.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Malt industry --  England --  Early works to 1800.</term>
+               <term type="topical_term">Hops industry --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:188364:1"/>
+            <head type="illustration">
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <opener>
+               <signed>❧ By the King.</signed>
+            </opener>
+            <head>A Proclamation concerning certain Kilnes for the sweet and speedy drying of Mault and Hops at a small charge.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Heras Our right trusty and welbeloved Cousin, THOMAS Earle of <hi>Berkshire,</hi> hath with much cost and expence, after many charge<g ref="char:EOLhyphen"/>able trials, found out and invented certain Kilnes, very usefull (amongst other things) for the drying of Mault and Hops, with Fire to be made of Seacole, Turf, Peat, or any other the cheap<g ref="char:EOLhyphen"/>est and meanest Fuell: By the use of which Kilnes, the houses and dwellings of Our Subjects will be secured from the casualty of Fire, their Mault and Hops sweetly dryed without touch of smoak, much time will be gained, much cost and attendance spared, the future decay of Woods in great measure prevented, Straw saved and made Fodder for Cattell; And besides all this the Mault so dryed will be in quantity more, in quality better, then Mault dryed with any other Kilne whatsoever.</p>
+            <p>And whereas We by Our Letters Patents, under Our great Seal of <hi>England,</hi> have granted unto the said Earle, his Executors, Administrators and Assignes, for the terme of fourteen yeers, the sole priviledge and exercise of the said invention within and throughout our Kingdomes of <hi>England,</hi> and <hi>Ireland,</hi> Dominion of <hi>Wales,</hi> and town of <hi>Berwick,</hi> and have thereby inhibited all persons of what condition or degree soever, other then the said Earle, his Executors Administrators and Assignes, and his and their Deputies, Servants, Workmen, Factors, and Agents, to use the said invention or any part thereof, or in any wise to counterfeit, resemble, or imitate the same without the speciall Licence, consent, and agreement
+<pb facs="tcp:188364:2"/>of the said Earle, his Executors, Administrators or Assignes, first had and obtained in wri<g ref="char:EOLhyphen"/>ting, under his or their Seal in that behalf, upon pain to have their Kilnes demolished, and under such further punishments as by Our Lawes may be inflicted upon the Contemners of our Royall Will and Pleasure.</p>
+            <p>Now taking into Our Princely consideration the great benefits of the said Invention, and being desirous to further the speedy execution thereof, for the good of Our said King<g ref="char:EOLhyphen"/>domes and people; We are graciously pleased by this Our Proclamation, to publish the pre<g ref="char:EOLhyphen"/>misses to all Our loving Subjects, that so they may not only know the good, but compound<g ref="char:EOLhyphen"/>ing with the said Earle and his Assignes for his Licenses at a certain place in <hi>Fleet-street,</hi> neer unto <hi>Temple-barre,</hi> in Our City of <hi>London,</hi> appointed in that behalf, may also by vertue of the same Licenses, partake of the benefits of the said Invention.</p>
+            <p>And We are further pleased, and do hereby declare Our Royall will and pleasure to be; That all and singular Ourloving Subjects, who shall be licensed by the said Earle, his Ex<g ref="char:EOLhyphen"/>ecutors, Administrators or Assignes to use the said Invention or Kilne, to and for the drying of Mault, (except such person or persons, as are or shall be allowed for common Brewers) shall and may (observing the Lawes and Statutes of the Realme) continue their Art and Mystery of Mault-making, without the let, disturbance, or interruption of Vs, our Heires, or Successors, or any the Officers or Ministers, of Vs, Our Heires orSuccessors, and with<g ref="char:EOLhyphen"/>out any farther or other composition then such composition as shall be made with the said Earle, his Executors, Administrators or Assignes concerning the premisses: Any Act, Or<g ref="char:EOLhyphen"/>dinance, Provision, Proclamation or restraint heretofore had, made, published, or provided to the contrary in any wise notwithstanding.</p>
+            <closer>
+               <dateline>Given at Our Court at White-Hall, <date>the eighth day of February, in the thirteenth yeer of Our Reign.</date>
+               </dateline>
+            </closer>
+            <trailer>❧ God save the King.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings most Excellent Majestie: And by the Assignes of JOHN BILL. 1637.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
